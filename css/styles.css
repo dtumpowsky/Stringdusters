@@ -2,10 +2,26 @@ h1 {
   font-size: 25px;
   font-weight: bold;
   font-family: cursive;
+  text-align: c
 }
 
-div.dates {
+div.sidebar {
   float: right;
-  width: 50px;
   font-family: sans-serif;
+  border-style: solid;
+  border-color: orange;
+  padding: 3px;
+  margin: 7px;
+}
+
+img {
+  width: 50%;
+}
+
+h2{
+  float: right;
+}
+
+span.tour{
+  float: left;
 }
